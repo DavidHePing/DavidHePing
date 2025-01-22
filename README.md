@@ -1,5 +1,8 @@
-## My Profile 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+## Language
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
+
+
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/s555522?ext=heatmap) -->
 <!--
