@@ -1,5 +1,5 @@
 ## My Profile 👋
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/s555522?ext=heatmap) -->
 <!--
