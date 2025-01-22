@@ -1,6 +1,6 @@
 <div align="center">
 
-## Language of my repo
+## Programming Languages Overview
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
