@@ -3,7 +3,8 @@ Hi, I'm David, a backend engineer
 
 
 ## My Slide
-📑 [View the Slide](https://davidheping.github.io/SlideDesignTransactionProcess/)
+📑 [Design Transaction Process](https://docs.google.com/presentation/d/1cAptFia-n3kFRxHWU-DwPxXHwiPO-P-Ecbfv0rNawXU/edit#slide=id.p1)
+
 
 ## Programming Languages Overview
 
