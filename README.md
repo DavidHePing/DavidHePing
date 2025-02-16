@@ -3,7 +3,7 @@ Hi, I'm David, a backend engineer
 
 
 ## My Slide
-### 📑 [Design Transaction Process](https://docs.google.com/presentation/d/1cAptFia-n3kFRxHWU-DwPxXHwiPO-P-Ecbfv0rNawXU/edit?usp=sharing)
+### 📑 [Handling Transactions in Distributed Systems](https://docs.google.com/presentation/d/1cAptFia-n3kFRxHWU-DwPxXHwiPO-P-Ecbfv0rNawXU/edit?usp=sharing)
 
 
 ## Programming Languages Overview
