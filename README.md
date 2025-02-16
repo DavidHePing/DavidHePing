@@ -3,7 +3,7 @@ Hi, I'm David, a backend engineer
 
 
 ## My Slide
-### 📑 [Handling Transactions in Distributed Systems](https://docs.google.com/presentation/d/1cAptFia-n3kFRxHWU-DwPxXHwiPO-P-Ecbfv0rNawXU/edit?usp=sharing)
+### 📑 [Handling Transactions in Distributed Systems](https://github.com/DavidHePing/Distributed_System_Transactions_Slide)
 
 
 ## Programming Languages Overview
