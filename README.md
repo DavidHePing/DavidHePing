@@ -6,7 +6,7 @@ Hi, I'm David, a backend engineer with expertise in C#. I'm currently learning G
 ### 📑 [Handling Transactions in Distributed Systems](https://github.com/DavidHePing/Distributed_System_Transactions_Slide)
 
 
-## Programming Languages Overview
+## Repositories Overview
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
