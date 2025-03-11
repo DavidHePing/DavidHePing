@@ -1,5 +1,5 @@
 ## My Profile 👋
-Hi, I'm David, a backend engineer
+Hi, I'm David, a backend engineer with expertise in C#. I'm currently learning Golang and practicing LeetCode.
 
 
 ## My Slide
