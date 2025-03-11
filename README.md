@@ -11,7 +11,9 @@ Hi, I'm David, a backend engineer
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
 [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidHePing&theme=nord_bright)](https://github.com/DavidHePing)
 
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/s555522?ext=heatmap) -->
+## Leetcode 
+![LeetCode Stats](https://leetcard.jacoblin.cool/s555522?ext=heatmap)
+
 <!--
 **DavidHePing/DavidHePing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
